@@ -48,10 +48,3 @@ Find all the dependencies in the `package.json` file.
    `npm start`
 
 
-# Contact
-
-For inquiries or collaboration opportunities, feel free to reach out on LinkedIn:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhujbal%20Prathamesh-blue)](https://www.linkedin.com/in/bhujbal-prathamesh-633a28230/)
-
-[Bhujbal Prathamesh](https://www.linkedin.com/in/bhujbal-prathamesh-633a28230/)
